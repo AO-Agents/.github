@@ -1,6 +1,4 @@
-# AO Agents
-
-**Blueprint Your Vision.**
+# Welcome to AO Agents
 
 AO Agents is an AI automation company built around a single conviction: professionals shouldn't have to choose between AI speed and human control. We solve the most common frustration in generative AI — the inability to control what the AI will actually produce.
 
