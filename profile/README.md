@@ -29,4 +29,4 @@ The Blueprint System is domain-agnostic. AO Marketing is where we prove the conc
 AO Agents is incorporated in Italy, supported by USI (Università della Svizzera italiana), and targeting the Italian and Swiss markets for initial expansion. Our name reflects our philosophy — *ao* means blue in Japanese, a direct reference to the blueprint that defines everything we build.
 
 ---
-*aoagents.it*
+Discover more: [aoagents.it](https://www.aoagents.it)
